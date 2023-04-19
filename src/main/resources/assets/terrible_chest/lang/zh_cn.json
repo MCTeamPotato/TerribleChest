@@ -1,20 +1,20 @@
 {
   "_comment": "Blocks",
-  "block.terrible_chest.terrible_chest": "可怕的箱子",
-  "block.terrible_chest.terrible_chest_2": "Emerald Terrible Chest",
+  "block.terrible_chest.terrible_chest": "可怖箱子",
+  "block.terrible_chest.terrible_chest_2": "绿宝石可怖箱子",
 
   "_comment": "Items",
   "item.terrible_chest.diamond_sphere": "钻石球",
-  "item.terrible_chest.terrible_bangle": "可怕的手镯",
+  "item.terrible_chest.terrible_bangle": "可怖手镯",
 
   "_comment": "Container",
-  "container.terrible_chest.terrible_chest": "可怕的箱子",
+  "container.terrible_chest.terrible_chest": "可怖箱子",
 
   "_comment": "Gui",
-  "gui.terrible_chest.terrible_chest.count": "数量: %,d",
+  "gui.terrible_chest.terrible_chest.count": "数量：%，d",
 
   "_comment": "Key Bindings",
-  "key.terrible_chest": "可怕的箱子",
+  "key.terrible_chest": "可怖箱子",
   "key.terrible_chest.sort0": "排序 0",
   "key.terrible_chest.sort1": "排序 1",
   "key.terrible_chest.sort2": "排序 2",
@@ -27,5 +27,5 @@
   "key.terrible_chest.sort9": "排序 9",
 
   "_comment": "Messages",
-  "message.terrible_chest.auth_error": "You do not have permission to access this chest."
+  "message.terrible_chest.auth_error": "你没有访问这个箱子的权限。"
 }
