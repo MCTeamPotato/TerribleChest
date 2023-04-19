@@ -60,19 +60,8 @@ minecraft {
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
-repositories {
-    maven {
-        name = 'CurseForge'
-        url = "https://www.cursemaven.com"
-        content {
-            includeGroup "curse.maven"
-        }
-    }
-}
-
 dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.39'
-    implementation fg.deobf('curse.maven:terrible-chest-334619:3071474')
 }
 
 jar {

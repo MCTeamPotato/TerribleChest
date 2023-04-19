@@ -3,7 +3,7 @@ loaderVersion="[36,)"
 license="MIT"
 
 [[mods]]
-modId="terriblechest"
+modId="terrible_chest"
 version="${file.jarVersion}"
 displayName="TerribleChest"
 authors="Team Potato, eideehi"
