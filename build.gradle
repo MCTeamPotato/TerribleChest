@@ -11,7 +11,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'maven-publish'
 
 version = 'potato-edition-2.0'
-group = 'com.teampotato.terriblechest'
+group = 'com.teampotato.terrible_chest'
 archivesBaseName = 'terriblechest'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
