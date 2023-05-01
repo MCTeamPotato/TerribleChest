@@ -7,9 +7,6 @@ import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.nbt.ListNBT;
 
 public class ItemStackContainerUtil {
-    private ItemStackContainerUtil() {
-    }
-
     public static Int2ObjectMap<ItemStackContainer> newContainers() {
         Int2ObjectOpenHashMap<ItemStackContainer> containers = new Int2ObjectOpenHashMap<>();
         containers.defaultReturnValue(ItemStackContainer.EMPTY);

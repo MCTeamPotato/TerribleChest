@@ -8,7 +8,4 @@ public class TileEntityTypes {
     public static TileEntityType<TerribleChestTileEntity> TERRIBLE_CHEST;
     @ObjectHolder("terrible_chest:terrible_chest_2")
     public static TileEntityType<TerribleChestTileEntity2> TERRIBLE_CHEST_2;
-
-    private TileEntityTypes() {
-    }
 }

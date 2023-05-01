@@ -8,7 +8,4 @@ public class Items {
     public static Item DIAMOND_SPHERE;
     @ObjectHolder("terrible_chest:terrible_bangle")
     public static Item TERRIBLE_BANGLE;
-
-    private Items() {
-    }
 }

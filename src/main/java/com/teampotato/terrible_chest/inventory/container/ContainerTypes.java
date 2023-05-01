@@ -9,7 +9,4 @@ public class ContainerTypes {
     public static ContainerType<TerribleChestContainer> TERRIBLE_CHEST;
     @ObjectHolder("terrible_chest:terrible_chest_2")
     public static ContainerType<TerribleChestContainer> TERRIBLE_CHEST_2;
-
-    private ContainerTypes() {
-    }
 }
